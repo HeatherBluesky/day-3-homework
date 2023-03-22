@@ -48,3 +48,19 @@ def number_to_short_month_name(number):
 def number_to_short_month_name(number):
     return short_months[number-1]
 
+
+def test_volume_of_cube(number):
+    return print(test_volume_of_cube+str(number))
+
+messsage = None
+
+def test_reverse_string(message):
+    return message.reverse
+
+
+farenheit = 0
+def test_fahrenheit_to_celsius(farenheit):
+    return ((farenheit - 35) * 5)
+
+
+# i think these extended answers are wrong
